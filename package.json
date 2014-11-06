@@ -1,0 +1,25 @@
+{
+  "name": "is-native",
+  "version": "0.0.1",
+  "description": "Check if a given node package has a compilation build step.",
+  "main": "index.js",
+  "dependencies": {
+    "tar-stream": "^1.0.0",
+    "debug": "^2.0.0",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pose/is-native.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pose/is-native/issues"
+  },
+  "homepage": "https://github.com/pose/is-native"
+}
